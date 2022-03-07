@@ -827,6 +827,11 @@
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.31.tgz#c90de7126d833dcd3a4c7534d534be2fb41faa4e"
   integrity sha512-ymN2pj6zEjiKJZbrf98UM2pfDd6F2H7ksKw7NDt/ZZ1fh5Ei39X5tABugtT03ZRlWd9imccoK0hE8hpjpU7irQ==
 
+"@vueform/toggle@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@vueform/toggle/-/toggle-2.0.1.tgz#a5592c95f52ed41bb0b4401081c7952ce0f257e2"
+  integrity sha512-Hx26jK+hJUndP4zUBXdScYnTlDwXhkRl+sPW1srkOHqImAcyV2932LzavZQIqK1MhBBukKt+X0wkR5cJL7duYw==
+
 "@vueuse/head@^0.7.5":
   version "0.7.5"
   resolved "https://registry.yarnpkg.com/@vueuse/head/-/head-0.7.5.tgz#0284e3dc53ea6709196956bf25115eea863a847a"
